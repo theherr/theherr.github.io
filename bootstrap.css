@@ -1,0 +1,19 @@
+body {
+	background-color: black;
+	background-size: cover;
+}
+.col {
+	height: 300px;
+	color: pink;
+	text-align: center;
+}
+.image-column {
+	background-image: url("https://images.pexels.com/photos/4192/sport-alley-ball-game.jpg?cs=srgb&dl=sport-alley-ball-4192.jpg&fm=jpg");
+	background-size: cover;
+}
+.btn-secondary {
+	background-color: orange;
+	display: flex-column;
+	align-items: flex-end;
+}
+
